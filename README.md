@@ -1,20 +1,18 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdyeHFrZDl0Nmx6Mjh0N3h1cGR4MXczeGRrMW1oeGtkeWM2ZzZydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+# Привет, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> меня зовут Антон!
 
-  <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=AntonKulagin&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<p>Я - фронтенд разработчик из <img src="https://emojigraph.org/media/joypixels/flag-russia_1f1f7-1f1fa.png" width="13px"/> <b>России</b></p>
+<div id="badges">
+  <a href="https://t.me/Antoni_Kulagin">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+    <a href="https://vk.com/antoniokularus">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+  </a>
 </div>
+
+---
+
+### 👨‍🦱 Обо мне :
+- ✒️ Реализую пользовательские интерфейсы, взаимодействующие с backend
+- 🔆 Постоянно повышаю качество своего кода
+- 🆓 В свободное время решаю задачи <a href="https://www.codewars.com/users/Antonio555" target="_blank"><img src="https://www.codewars.com/users/Antonio555/badges/micro" width="90px"/></a> и читаю техническую литературу
