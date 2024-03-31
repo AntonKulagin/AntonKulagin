@@ -16,9 +16,9 @@
 ---
 
 ### :zap: Мои работы :
+- 😑 <a href="https://github.com/AntonKulagin/pwa-rick-and-morty">Рик и Морти PWA</a>
 - 🛒<a href="https://github.com/AntonKulagin/jfd-electrogoods">Магазин электротоваров</a>
 - 🎮 <a href="https://github.com/AntonKulagin/tic-tac-toe">Игра крестики-нолики</a>
-- 😑 <a href="https://github.com/AntonKulagin/pwa-rick-and-morty">Рик и Морти PWA</a>
 - 📅 <a href="https://github.com/AntonKulagin/fast-company-redux">Быстрые встречи</a>
 
 ---
