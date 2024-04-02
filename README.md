@@ -8,7 +8,7 @@
     <a href="https://vk.com/antoniokularus">
     <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="www.linkedin.com/in/anton-kulagin-v">
+  <a href="https://www.linkedin.com/in/anton-kulagin-v">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
