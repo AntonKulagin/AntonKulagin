@@ -1,6 +1,6 @@
 # Привет, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> меня зовут Антон!
 
-<p>Я - фронтенд разработчик <img src="https://emojigraph.org/media/joypixels/flag-russia_1f1f7-1f1fa.png" width="13px"/></p>
+## Я - фронтенд разработчик <img src="https://emojigraph.org/media/joypixels/flag-russia_1f1f7-1f1fa.png" width="13px"/>
 <div id="badges">
   <a href="https://t.me/Antoni_Kulagin">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
