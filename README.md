@@ -49,6 +49,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55A?style=for-the-badge&logo=node.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/firebase-FFA714?style=for-the-badge&logo=firebase&logoColor=white)
+![NodeJS](https://img.shields.io/badge/vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white)
 
 ---
 
