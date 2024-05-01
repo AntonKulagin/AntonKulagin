@@ -42,6 +42,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05639?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-9C4860?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/AntDesign-1986F2?style=for-the-badge&logo=ant-design&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
@@ -49,9 +50,8 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55A?style=for-the-badge&logo=node.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/firebase-FFA714?style=for-the-badge&logo=firebase&logoColor=white)
-![NodeJS](https://img.shields.io/badge/vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white)
-![NodeJS](https://img.shields.io/badge/vue-47BA87?style=for-the-badge&logo=vue.js&logoColor=white)
+![FireBase](https://img.shields.io/badge/firebase-FFA714?style=for-the-badge&logo=firebase&logoColor=white)
+![VueJS](https://img.shields.io/badge/vue-47BA87?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ---
 
