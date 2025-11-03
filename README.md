@@ -16,7 +16,7 @@
 ---
 
 ### :zap: Мои работы :
-- 🔍 <a href="https://jobs.yourcodereview.com/">Приложение-агрегатор вакансий</a>
+- :hammer_and_wrench: <a href="https://github.com/AntonKulagin/furniture-designer">Конструктор мебели</a>
 - 😑 <a href="https://github.com/AntonKulagin/pwa-rick-and-morty">Рик и Морти PWA</a>
 - 🗒️ <a href="https://github.com/AntonKulagin/create-user">Список пользователей</a>
 - 🛒<a href="https://github.com/AntonKulagin/jfd-electrogoods">Магазин электротоваров</a>
